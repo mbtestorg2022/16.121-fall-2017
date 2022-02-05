@@ -20,7 +20,7 @@ Consider a subsonic flow over a slender axially body of profile section
 
 $$R(x)=\\frac{2tx(L-x)}{L^2}$$
 
-where t is hte maximum thickness, L is the total length of the body,  and (t/L) <<1.
+where t is hte maximum thickness, L is the total length of the body,  and (t/L) \<\<1.
 
 (a) Sketch the profile.
 

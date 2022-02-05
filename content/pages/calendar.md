@@ -4,17 +4,283 @@ title: Calendar
 uid: eebfc29e-a0b3-fa96-2add-7bd5b4ffa500
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}}  Singular Perturbation Method {{< br >}}{{< br >}} *   Subject overview{{< br >}}*   Motivation for the subject{{< br >}}*   Concept map{{< br >}}*   Compelling problems{{< br >}}*   Dimensional analysis, similarity{{< br >}}*   Asymptotics{{< br >}}*   A singular perturbation problem and solution \[ODE, Ordinary Differential Equations\] {{< br >}}{{< br >}}  | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Seminar in Perturbation Methods {{< br >}}{{< br >}} *   A singular perturbation problem and solution \[PDE, Partial Differential Equations\]{{< br >}}*   Conservation principles{{< br >}}*   Pressure distribution and compressibility{{< br >}}*   Pressure—velocity relations in isentropic flow {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Singular Perturbation Methods; Formation of Shock Waves {{< br >}}{{< br >}} *   Similarity of flows{{< br >}}*   Equations governing irrotational flows of a homentropic gas{{< br >}}*   Velocity potential{{< br >}}*   Calorically perfect gas{{< br >}}*   Speed of sound {{< br >}}{{< br >}}  | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Fundamental of Fluid Mechanics {{< br >}}{{< br >}} *   Small perturbation theory{{< br >}}*   Perturbation velocity potential{{< br >}}*   Perturbation velocity potential equation{{< br >}}*   Limit of small perturbations{{< br >}}*   Boundary conditions \[steady flows\] {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Linear Subsonic Flow {{< br >}}{{< br >}} *   Linearized pressure coefficient{{< br >}}*   Linearized subsonic flow{{< br >}}*   Transformation of independent variables{{< br >}}*   Prandtl-Glauert Rule {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Similarity Rules {{< br >}}{{< br >}} *   Similarity Rules{{< br >}}*   Dynamic and geometric variables{{< br >}}*   Afine body relationships{{< br >}}*   von Karman Rules {{< br >}}{{< br >}}  | &nbsp; |
-| 7—9 |  {{< br >}}{{< br >}} Bodies of Revolution: Slender Body Theory {{< br >}}{{< br >}} *   Bodies of revolution—slender body theory{{< br >}}*   Cylindrical coordinates: x, r, θ{{< br >}}*   Continuity equation{{< br >}}*   Linearized perturbation potential equation{{< br >}}*   Boundary conditions: limit of r->0{{< br >}}*   Linearized pressure coefficient{{< br >}}*   Axial symmetry{{< br >}}*   Incompressible solution{{< br >}}*   Source distribution{{< br >}}*   Superposition Subsonic solution{{< br >}}*   f(x), S(x), R(x) relation {{< br >}}{{< br >}}  | Problem set 1 out |
-| 10 |  {{< br >}}{{< br >}} Slender Body Theory {{< br >}}{{< br >}} *   Slender body theory from a regular perturbation perspective{{< br >}}*   Transonic limit{{< br >}}*   Hypersonic limit {{< br >}}{{< br >}}  | Problem set 1 due |
-| 11 |  {{< br >}}{{< br >}} Higher Approximation: Slope of the Lift and Moment About Mid-chord {{< br >}}{{< br >}} *   Higher approximations for lift and moment about mid-chord {{< br >}}{{< br >}}  | &nbsp; |
-| 12—14 |  {{< br >}}{{< br >}} Perturbation Methods / Overview {{< br >}}{{< br >}} *   Thin wing theory{{< br >}}*   Thickness, angle of attack, camber{{< br >}}*   Matched asymptotic expansions{{< br >}}*   Kutta-Joukowsky condition{{< br >}}*   Stretched variables{{< br >}}*   Boundary conditions{{< br >}}*   Inner and outer spaces{{< br >}}*   Inner and outer solutions{{< br >}}*   Downwash{{< br >}}*   Drag due to lift{{< br >}}*   Total drag {{< br >}}{{< br >}}  | &nbsp; |
-| 15 |  {{< br >}}{{< br >}} Thin Wing Theory {{< br >}}{{< br >}} *   Two dimensional flow over a wavy wall {{< br >}}{{< br >}}  | Problem set 2 out |
-| 16 |  {{< br >}}{{< br >}} Non-linear, Unsteady Transonic Waves {{< br >}}{{< br >}} *   Summary{{< br >}}*   Review {{< br >}}{{< br >}}  | Porblem set 2 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ Singular Perturbation Method
+
+*   Subject overview
+*   Motivation for the subject
+*   Concept map
+*   Compelling problems
+*   Dimensional analysis, similarity
+*   Asymptotics
+*   A singular perturbation problem and solution \[ODE, Ordinary Differential Equations\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Seminar in Perturbation Methods
+
+*   A singular perturbation problem and solution \[PDE, Partial Differential Equations\]
+*   Conservation principles
+*   Pressure distribution and compressibility
+*   Pressure—velocity relations in isentropic flow
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Singular Perturbation Methods; Formation of Shock Waves
+
+*   Similarity of flows
+*   Equations governing irrotational flows of a homentropic gas
+*   Velocity potential
+*   Calorically perfect gas
+*   Speed of sound
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fundamental of Fluid Mechanics
+
+*   Small perturbation theory
+*   Perturbation velocity potential
+*   Perturbation velocity potential equation
+*   Limit of small perturbations
+*   Boundary conditions \[steady flows\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Linear Subsonic Flow
+
+*   Linearized pressure coefficient
+*   Linearized subsonic flow
+*   Transformation of independent variables
+*   Prandtl-Glauert Rule
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Similarity Rules
+
+*   Similarity Rules
+*   Dynamic and geometric variables
+*   Afine body relationships
+*   von Karman Rules
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7—9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bodies of Revolution: Slender Body Theory
+
+*   Bodies of revolution—slender body theory
+*   Cylindrical coordinates: x, r, θ
+*   Continuity equation
+*   Linearized perturbation potential equation
+*   Boundary conditions: limit of r->0
+*   Linearized pressure coefficient
+*   Axial symmetry
+*   Incompressible solution
+*   Source distribution
+*   Superposition Subsonic solution
+*   f(x), S(x), R(x) relation
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Slender Body Theory
+
+*   Slender body theory from a regular perturbation perspective
+*   Transonic limit
+*   Hypersonic limit
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Higher Approximation: Slope of the Lift and Moment About Mid-chord
+
+*   Higher approximations for lift and moment about mid-chord
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12—14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Perturbation Methods / Overview
+
+*   Thin wing theory
+*   Thickness, angle of attack, camber
+*   Matched asymptotic expansions
+*   Kutta-Joukowsky condition
+*   Stretched variables
+*   Boundary conditions
+*   Inner and outer spaces
+*   Inner and outer solutions
+*   Downwash
+*   Drag due to lift
+*   Total drag
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thin Wing Theory
+
+*   Two dimensional flow over a wavy wall
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Non-linear, Unsteady Transonic Waves
+
+*   Summary
+*   Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Porblem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
