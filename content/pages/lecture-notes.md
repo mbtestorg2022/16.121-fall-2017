@@ -67,7 +67,7 @@ LeCTURE NOTES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Similarity Rules (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec06)
+[Similarity Rules (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec06)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +94,7 @@ LeCTURE NOTES
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Higher Approximations: Slope of the Lift and Moment About Mid-chord (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec11)
+[Higher Approximations: Slope of the Lift and Moment About Mid-chord (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec11)
 {{< tdclose >}}
 
 {{< trclose >}}
