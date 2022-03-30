@@ -12,7 +12,7 @@ Lectures: 2 sessions / week; 1.5 hours / session; This is a half-semester course
 Prerequisites
 -------------
 
-[2.25 Fluid Mechanics](/courses/2-25-advanced-fluid-mechanics-fall-2013/) or [18.085 Computational Science and Engineering I](/courses/18-085-computational-science-and-engineering-i-fall-2008/)
+[2.25 Fluid Mechanics](/courses/2-25-advanced-fluid-mechanics-fall-2013) or [18.085 Computational Science and Engineering I](/courses/18-085-computational-science-and-engineering-i-fall-2008)
 
 Course Description
 ------------------
